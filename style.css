@@ -119,8 +119,13 @@ nav ul li a:hover {
 /* THIS IS FOR MY RESUME*/
 
 .resume {
-  color:#5c3396;
+  color:#5c3396;]
+  margin: 0 35px 55px 35px;
 }
+
+.resume-header{
+  padding-bottom: 10px;
+  padding-top: 25px;
 
 .resume-link {
   display: inline-block;
